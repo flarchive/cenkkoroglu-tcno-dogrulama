@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of cenkkoroglu/tcno-dogrulama.** Not for installation: use [Packagist](https://packagist.org/packages/cenkkoroglu/tcno-dogrulama) or the [upstream repository](https://github.com/cenkkoroglu/flarum-tcno-dogrulama).
 
-**0** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/cenkkoroglu-tcno-dogrulama/tree/archive/v0.0.1) · License: `0BSD` · Flarum: `^0.1.0-beta.8`
+**1** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/cenkkoroglu-tcno-dogrulama/tree/archive/v0.0.1) · License: `0BSD` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2020-05-25 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/cenkkoroglu-tcno-dogrulama/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/cenkkoroglu-tcno-dogrulama.json](https://github.com/flarchive/archive-index/blob/main/packages/cenkkoroglu-tcno-dogrulama.json)
 
